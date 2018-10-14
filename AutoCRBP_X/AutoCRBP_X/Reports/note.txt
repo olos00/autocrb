@@ -1,0 +1,4 @@
+﻿Set these locatioms
+
+Database Location (Hard-Coded): C:\Program Files (x86)\AutoCRB\database
+Executable Location (Hard-Coded): C:\Program Files (x86)\AutoCRB\
